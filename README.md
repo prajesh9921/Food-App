@@ -18,7 +18,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#screenshot">ScreenShots</a></li>
+    <li><a href="#screenshots">ScreenShots</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -99,4 +99,5 @@ Well! we all love to eat food, especially food from our favorite restaurant but 
 <p align="center">Email: prajeshwork30@gmail.com</p>
 <p align="center"><a href="https://www.linkedin.com/in/prajesh-gawhale-b0b9b3190/">Linkedin Link</a></p>
 <p align="center"><a href="https://drive.google.com/file/d/1kymEkjjv3vk78CnyMv-xny3r408bZpvt/view?usp=share_link">Resume Link</a></p>  
+<p>Open for any Job / Internship opportunity</p>
 
